@@ -127,6 +127,8 @@
 				326E7DBC281E31FF0078528F /* ModelData.swift */,
 				326E7DBA281E30DE0078528F /* Landmark.swift */,
 				326E7DED281E7BC30078528F /* Profile.swift */,
+				326E7DDB281E693F0078528F /* Hike.swift */,
+				326E7DFB281E8E660078528F /* FeatureCard.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -242,8 +244,6 @@
 				C20D77F124B665D8002E7AEA /* Assets.xcassets */,
 				C20D77F624B665D8002E7AEA /* Info.plist */,
 				C20D77F324B665D8002E7AEA /* Preview Content */,
-				326E7DDB281E693F0078528F /* Hike.swift */,
-				326E7DFB281E8E660078528F /* FeatureCard.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
